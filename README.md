@@ -1,3 +1,3 @@
 # js-calculator
+https://stirring-phoenix-bc29b6.netlify.app/
 
-https://stirring-phoenix-bc29b6.ne
