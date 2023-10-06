@@ -1,0 +1,32 @@
+
+body{
+    background-color: black;
+}
+
+.abc{
+    background-color:gray;
+    width: 240px;
+    height: 360px;
+    text-align: center;
+    margin: auto;
+}
+
+button{
+    border-radius: 10px;
+    width: 40px;
+    height: 30px;
+    border: none;
+ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+
+}
+
+#inp{
+    height: 30px;
+    width: 80%;
+    background-color:white ;
+    border: none;
+}
+
+#inp::placeholder{
+    font-size: 20px;
+}
